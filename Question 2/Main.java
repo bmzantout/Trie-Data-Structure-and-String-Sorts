@@ -1,4 +1,3 @@
-package Assignment4_Q2;
 import java.util.Scanner;
 
 public class Main {
@@ -8,13 +7,9 @@ public class Main {
 
 		//-----------------------------------------------------------------
 		// Title: Question 2
-		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 4
 		// Description: This is the main class for Question 2 which calls 
 		//              the methods that are needed to perform the sorting 
-	    //              operations on some given String arrays.
+	        //              operations on some given String arrays.
 		//-----------------------------------------------------------------
 		
 		
