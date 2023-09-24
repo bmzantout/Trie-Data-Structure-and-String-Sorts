@@ -1,17 +1,12 @@
-package Assignment4_Q1;
-import Assignment1_Q1.Queue;
+import Queue;
 
 public class TrieST<Value> {
 	
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 4
 	// Description: This is a Trie class, which has the methods that 
 	//              perform basic Trie operations based on the Trie data 
-    //              structure. This class also depends on the Queue.java 
+        //              structure. This class also depends on the Queue.java 
 	//              class in its implementation
 	//-----------------------------------------------------------------
 	
