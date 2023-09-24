@@ -1,4 +1,3 @@
-package Assignment4_Q1;
 import java.util.Scanner;
 
 public class Main {
@@ -8,13 +7,9 @@ public class Main {
 
 		//-----------------------------------------------------------------
 		// Title: Question 1
-		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 4
 		// Description: This is the main class for Question 1 which calls 
 		//              the methods that are needed to perform 3 basic 
-	    //              on the tree structure.
+	        //              on the tree structure.
 		//-----------------------------------------------------------------
 		
 		
