@@ -1,17 +1,11 @@
-package Assignment4_Q2;
-
 public class Methods {
 
 	
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 4
 	// Description: This is the class that is used by the main class and
 	//              has all the required methods to perform the sorting
-    //              operations over the given string arrays
+        //              operations over the given string arrays
 	//-----------------------------------------------------------------
 	
 	
