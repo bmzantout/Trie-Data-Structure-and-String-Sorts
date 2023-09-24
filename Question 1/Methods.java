@@ -1,16 +1,10 @@
-package Assignment4_Q1;
-
 public class Methods {
 
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 4
 	// Description: This is the class that is used by the main class and
 	//              has all the required methods to perform the three
-    //              main operations over the strings on Trie
+        //              main operations over the strings on Trie
 	//-----------------------------------------------------------------
 	
 	
